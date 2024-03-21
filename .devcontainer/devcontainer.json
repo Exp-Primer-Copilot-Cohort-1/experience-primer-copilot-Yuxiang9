@@ -1,0 +1,11 @@
+{
+
+    "name": "Banana",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
